@@ -11,14 +11,15 @@ Eryone COLOR PALETTE
     Orange:      #ed8323;
     Red:         #d82525;
     Amber:      #bf891d;
+overture orange  #F27C1C;
 */
 
 :root {
-    --Primary:        #ed8323;    /*Eryone:Orange*/
+    --Primary:        #F27C1C;    /*Eryone:Orange*/
     --Secondary:      #808080;    /*Eryone:CurrentLine*/
     --Green:          #28c550;    /*Eryone:Green*/
     --Red:            #d82525;    /*Eryone:Red*/
-    --Warnings:       #bf891d;    /*Eryone:Amber*/
+    --Warnings:       #F27C1C;    /*Eryone:Amber*/
     --Text:           #f2f2f2;    /*Eryone:Foreground*/
     --DarkerText:     #e0e0e0;    
     --Background:     #282828;    /*Eryone:CurrentLine*/
